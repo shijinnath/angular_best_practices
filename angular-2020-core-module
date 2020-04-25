@@ -1,0 +1,27 @@
+∇ core
+         ∇ guards
+              auth.guard.ts
+              module-import.guard.ts
+              no-auth.guard.ts
+         ∇ interceptor
+              token.interceptor.ts
+              error.interceptor.ts
+         ∇ services
+              service-a.service.ts
+              service-b.service.ts
+         ∇ components
+              ∇ navbar
+                    navbar.component.html|scss|ts
+              ∇ page-not-found
+                    page-not-found.component.html|scss|ts
+         ∇ constants
+              constant-a.ts
+              constant-b.ts
+         ∇ enums
+              enum-a.ts
+              enum-b.ts
+         ∇ models
+              model-a.ts
+              model-b.ts
+         ∇ utils
+              common-functions.ts

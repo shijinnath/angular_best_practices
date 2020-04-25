@@ -1,0 +1,9 @@
+∇ shared
+         ∇ components
+              ∇ shared-button
+                   shared-button.component.html|scss|ts
+         ∇ directives
+              shared-directive.ts
+         ∇ pipes
+              shared-pipe.ts
+         shared.module.ts

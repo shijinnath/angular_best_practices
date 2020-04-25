@@ -1,0 +1,21 @@
+    ∇ features
+         ∇ feature-a
+              ∇ components
+                    ∇ scoped-component-a
+                            scoped-component-a.component.html|scss|ts
+                    ∇ scope-component-b
+                            scoped-component-b.component.html|scss|ts
+              ∇ pages
+                   ∇ page-a
+                        page-a.component.html|scss|ts
+                   ∇ page-b
+                        page-b.component.html|scss|ts
+              ∇ models
+                    scoped-model-a.model.ts
+                    scoped-model-b.model.ts
+              ∇ services
+                    scoped-service-a.service.ts
+                    scoped-service-b.service.ts
+              feature-a-routing.module.ts
+              feature-a.module.ts
+              feature-a.component.html|scss|ts

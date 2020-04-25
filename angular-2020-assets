@@ -1,0 +1,13 @@
+▽ assets
+      ▽ i18n
+          lang-a.json
+          lang-b.json
+      ▽ images
+            image-a.svg
+            image-b.svg
+      ▽ static
+            structure-a.json
+            structure-b.json
+      ▽ icons
+            custom-icon-a.svg
+            custom-icon-b.svg
